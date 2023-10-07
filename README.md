@@ -1,2 +1,2 @@
 # Sikayet-Var
-HTML, CSS ve JavaScript bilgilerimizi kullanarak kullanıcıların 
+HTML, CSS ve JavaScript bilgilerimizi kullanarak kullanıcıların çeşitli ürünler hakkındaki olumlu ve olumsuz deneyimlerini diğer insanlarla ve ilgili firmalarla paylaşabileceği bir sitedir. Bu sayede yaşadıkları problemleri direkt firmalarla iletişime geçerek çözüme kavuşturabilirler. Ayrıca diğer kullanıcıların da firmalar ve ürünler hakkında önbilgi almasına yardımcı olur. 27.12.2022 tarihinde projeyi tamamladık. 
